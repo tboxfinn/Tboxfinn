@@ -1,10 +1,10 @@
-<h1 align="center">Hi 🤠, I'm Alejandro Coronado</h1>
+<h1 align="center">Hi 😎, I'm Hugo Valladolid</h1>
 
-### 😵 I’m currently learning: C#, Unity, Java Script, Phyton.
+### 😋 I’m currently learning: C#, Unity, Java Script, Phyton.
 
 ### 👀 I’m interested in: Web Development, Game Development and App Dev.
 
-### 📣 Languages: Spanish & English  
+### 📣 Languages: Spanish & English
 
 ### ✨ Competencies: 
 - <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> SQL, My SQL <br>
