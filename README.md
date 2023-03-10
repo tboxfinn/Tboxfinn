@@ -21,8 +21,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex99-bit&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-<a href="https://github.com/Alex99-bit/Alex99-bit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alex99-bit&show_icons=true&line_height=27&count_private=true&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alex99-bit's GitHub Stats" />
+<a href="https://github.com/tboxfinn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tboxfinn&show_icons=true&line_height=27&count_private=true&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="tboxfinn's GitHub Stats" />
 </a>
 
 <!--- [![trophy](https://github-profile-trophy.vercel.app/?username=josuegarza42&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
