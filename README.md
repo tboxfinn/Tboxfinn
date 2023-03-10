@@ -1,8 +1,8 @@
 <h1 align="center">Hi 😎, I'm Hugo Valladolid</h1>
 
-### 😋 I’m currently learning: C#, Unity, Java Script, Phyton.
+### 😋 I’m currently learning: C# & Unity.
 
-### 👀 I’m interested in: Web Development, Game Development and App Dev.
+### 👀 I’m interested in: Game Development.
 
 ### 📣 Languages: Spanish & English
 
