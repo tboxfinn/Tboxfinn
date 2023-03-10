@@ -28,7 +28,7 @@
 <!--- [![trophy](https://github-profile-trophy.vercel.app/?username=josuegarza42&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ### 🤝🏻 &nbsp;Connect with Me
-- <a href="https://github.com/Devsthink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tboxfinn" height="30" width="40" /> Tboxfinn </a>
+- <a href="https://github.com/tboxfinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tboxfinn" height="30" width="40" /> Tboxfinn </a>
 - <a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tboxfinn" height="30" width="40" /> Tboxfinn </a>
  
  ![GitHub Views](https://komarev.com/ghpvc/?username=tboxfinn&color=9046cf)
