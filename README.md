@@ -12,7 +12,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tboxfinn&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  
   <br>
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tboxfinn&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </p>
 
