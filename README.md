@@ -25,9 +25,9 @@
 <h3 align="center">👨‍💻 Latest Projects</h3>
 
   <ul>
-    <li><a href="https://grimoire-games.itch.io/heart-to-heart">Project 1</a></li>
-    <li><a href="https://grimoire-games.itch.io/webbs-journey">Project 2</a></li>
-    <li><a href="https://tboxfinn.itch.io/frogy-slime">Project 3</a></li>
+    <li><a href="https://grimoire-games.itch.io/heart-to-heart">Heart To Heart (Portugal GameJam Winner) </a></li>
+    <li><a href="https://grimoire-games.itch.io/webbs-journey">Webbs Journey (SpaceApps Challenge Game) </a></li>
+    <li><a href="https://tboxfinn.itch.io/frogy-slime">frogy Slime (Grimoire GameJam Winner) </a></li>
   </ul>
 
 <h3 align="center">🤝 Connect with Me</h3>
