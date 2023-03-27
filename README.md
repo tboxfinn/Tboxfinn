@@ -36,6 +36,7 @@
   <a href="https://github.com/Tboxfinn"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Tboxfinn"></a>
   <a href="https://twitter.com/HugoValladolidD"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/HugoValladolidD"></a>
   <a href="mailto:Hugo.ValladolidD@hotmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Hugo.ValladolidD@hotmail.com"></a>
+  <br>
   <a href="https://www.youtube.com/@tboxfinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /> Tboxfinn</a>
   
 </p>
