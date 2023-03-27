@@ -37,6 +37,8 @@
   <a href="https://twitter.com/HugoValladolidD"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/HugoValladolidD"></a>
   <a href="mailto:Hugo.ValladolidD@hotmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Hugo.ValladolidD@hotmail.com"></a>
 </p>
+- <a href="https://www.youtube.com/channel/UCj1X9CnBvz8WMTyvt_Jnbxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /> Hugo Valladolid</a>
+- <a href="https://www.tiktok.com/@hugovalladolid?lang=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg"
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tboxfinn&style=flat-square&color=blueviolet" alt="Profile Views" />
