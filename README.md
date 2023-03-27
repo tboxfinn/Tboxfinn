@@ -19,22 +19,20 @@
 
 <h3 align="center">👨‍💻 Latest Projects</h3>
 
-<center align="center">
   <ul>
     <li><a href="https://grimoire-games.itch.io/heart-to-heart">Project 1</a></li>
     <li><a href="https://grimoire-games.itch.io/webbs-journey">Project 2</a></li>
     <li><a href="https://tboxfinn.itch.io/frogy-slime">Project 3</a></li>
   </ul>
-</center>
 
 <h3 align="center">🤝 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://github.com/[your-github-username]"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/[your-github-username]"></a>
-  <a href="https://twitter.com/[your-twitter-handle]"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/[your-twitter-handle]"></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[your-email]"></a>
+  <a href="https://github.com/Tboxfinn"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Tboxfinn"></a>
+  <a href="https://twitter.com/HugoValladolidD"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/HugoValladolidD"></a>
+  <a href="mailto:Hugo.ValladolidD@hotmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Hugo.ValladolidD@hotmail.com"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-github-username]&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Tboxfinn&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
