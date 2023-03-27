@@ -1,12 +1,12 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm HUGO VALLADOLID </h1>
 
 <p align="center">
-  <a href="https://github.com/[your-github-username]"><img src="https://img.shields.io/github/followers/[your-github-username]?label=Follow&style=social" alt="GitHub"></a>
-  <a href="https://twitter.com/[your-twitter-handle]"><img src="https://img.shields.io/twitter/follow/[your-twitter-handle]?label=Follow&style=social" alt="Twitter"></a>
+  <a href="https://github.com/Tboxfinn"><img src="https://img.shields.io/github/followers/Tboxfinn?label=Follow&style=social" alt="GitHub"></a>
+  <a href="https://twitter.com/[[your-twitter-handle]](https://twitter.com/HugoValladolidD)"><img src="https://img.shields.io/twitter/follow/[https://twitter.com/HugoValladolidD](https://twitter.com/HugoValladolidD)?label=Follow&style=social" alt="Twitter"></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tboxfinn&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 
 <h3 align="center">🛠️ Languages and Tools</h3>
