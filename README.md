@@ -2,8 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/Tboxfinn"><img src="https://img.shields.io/github/followers/Tboxfinn?label=Follow&style=social" alt="GitHub"></a>
+</p>
+
+<p align="center">
   <a href="https://twitter.com/HugoValladolidD"><img src="https://img.shields.io/twitter/follow/HugoValladolidD?label=Follow&style=social" alt="Twitter"></a>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tboxfinn&show_icons=true&theme=dracula" alt="GitHub Stats" />
