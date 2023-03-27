@@ -1,34 +1,38 @@
-<h1 align="center">Hi 😎, I'm Hugo Valladolid</h1>
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
 
-### 😋 I’m currently learning: C# & Unity.
+<p align="center">
+  <a href="https://github.com/[your-github-username]"><img src="https://img.shields.io/github/followers/[your-github-username]?label=Follow&style=social" alt="GitHub"></a>
+  <a href="https://twitter.com/[your-twitter-handle]"><img src="https://img.shields.io/twitter/follow/[your-twitter-handle]?label=Follow&style=social" alt="Twitter"></a>
+</p>
 
-### 👀 I’m interested in: Game Development.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</p>
 
-### 📣 Languages: Spanish & English
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-### ✨ Competencies: 
-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> Git <br>
-- <a href="https://csharp.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c sharp" width="40" height="40"/> </a> C# <br>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+</p>
 
+<h3 align="center">👨‍💻 Latest Projects</h3>
 
+<ul>
+  <li><a href="[project-link-1]">Project 1</a></li>
+  <li><a href="[project-link-2]">Project 2</a></li>
+  <li><a href="[project-link-3]">Project 3</a></li>
+</ul>
 
-  
- 
-## &#x1f4c8; My GitHub Stats
+<h3 align="center">🤝 Connect with Me</h3>
 
+<p align="center">
+  <a href="https://github.com/[your-github-username]"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/[your-github-username]"></a>
+  <a href="https://twitter.com/[your-twitter-handle]"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/[your-twitter-handle]"></a>
+  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[your-email]"></a>
+</p>
 
-<a href="https://github.com/tboxfinn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tboxfinn&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>
-
-<a href="https://github.com/tboxfinn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tboxfinn&show_icons=true&line_height=27&count_private=true&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="tboxfinn's GitHub Stats" />
-</a>
-
-<!--- [![trophy](https://github-profile-trophy.vercel.app/?username=josuegarza42&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-### 🤝🏻 &nbsp;Connect with Me
-- <a href="https://github.com/tboxfinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tboxfinn" height="30" width="40" /> Tboxfinn </a>
-- <a href="https://twitter.com/HugoValladolidD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tboxfinn" height="30" width="40" /> Tboxfinn </a>
- 
- ![GitHub Views](https://komarev.com/ghpvc/?username=tboxfinn&color=9046cf)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[your-github-username]&style=flat-square&color=blueviolet" alt="Profile Views" />
+</p>
