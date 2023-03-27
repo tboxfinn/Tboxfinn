@@ -4,13 +4,6 @@
   <a href="https://github.com/Tboxfinn"><img src="https://img.shields.io/github/followers/Tboxfinn?label=Follow&style=social" alt="GitHub"></a>
 </p>
 
-<br>
-<br>
-<br>
-<br><br><br><br><br><br>
-<br><br><br>
-<br><br>
-
 
 <p align="center">
   <a href="https://twitter.com/HugoValladolidD"><img src="https://img.shields.io/twitter/follow/HugoValladolidD?label=Follow&style=social" alt="Twitter"></a>
@@ -19,6 +12,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tboxfinn&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tboxfinn&title_color=cb6ce6&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </p>
 
