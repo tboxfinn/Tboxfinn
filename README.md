@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/tboxfinn/Tboxfinn/issues/1#issue-3244524963)"  />
+  <img height="150" src="https://github.com/user-attachments/assets/0ae49e44-c3f3-4978-9d53-5d758c1c331f"  />
 </div>
 
 ###
